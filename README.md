@@ -13,4 +13,4 @@ Nessa análise foram respondidas as seguintes perguntas:
 5. Qual é a média de duração em uma ligação onde um cliente aceita um acordo comparado para um cliente que não aceita o acordo?
 6. Qual foi o resultado final da campanha?
 
-Todas essas perguntas e análise foram respondidas em um artigo de minha autoria feita no Medium, seguindo no link: 
+Todas essas perguntas e análise foram respondidas em um artigo de minha autoria feita no Medium, seguindo no link: https://medium.com/@joaomarciel_/campanha-de-marketing-de-um-banco-de64664eb202
