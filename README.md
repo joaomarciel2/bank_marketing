@@ -1,6 +1,5 @@
 
-CAMPANHA DE MARKETING DE UM BANCO
-Previsão da assinatura de depósitos em uma campanha de marketing de uma instituição bancária portuguesa utilizando SQL.
+CAMPANHA DE MARKETING DE UM BANCO - Previsão da assinatura de depósitos em uma campanha de marketing de uma instituição bancária portuguesa utilizando SQL.
 
 No cenário altamente competitivo do setor bancário, as estratégias de marketing desempenham um papel crucial na aquisição e retenção de clientes. Entre as diversas abordagens adotadas, as campanhas de marketing baseadas em ligações telefônicas têm se mostrado uma ferramenta eficaz para promover produtos financeiros.
 
