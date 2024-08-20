@@ -1,4 +1,4 @@
-#bank_marketing
+
 CAMPANHA DE MARKETING DE UM BANCO
 Previsão da assinatura de depósitos em uma campanha de marketing de uma instituição bancária portuguesa utilizando SQL.
 
